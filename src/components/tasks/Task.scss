@@ -1,0 +1,20 @@
+.task {
+    .custom-checkbox {
+        vertical-align: text-bottom;
+        margin-right: 0.5rem;
+
+        .form-check-input {
+            width: 1rem;
+            height: 1rem;
+            vertical-align: text-bottom;
+        }
+    }
+
+    .task-title {
+        vertical-align: top;
+    }
+
+    .task-description {
+        vertical-align: top;
+    }
+}
